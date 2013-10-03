@@ -1,0 +1,10 @@
+Package: jetbrains-mps
+Version: 3.0.1-0
+Section: devel
+Priority: extra
+Architecture: all
+Depends: openjdk-7-jdk
+Installed-Size: 225552
+Maintainer: Kolja Dummann <kolja.dummann@logv.ws>
+Homepage: www.logv.ws
+Description: Design your own Domain Specific Language with full development environment. Get code editor with completion, semantics and type checking with one click. Write generators to compile your DSL into multiple target languages, such as Java, C, XML, and many more.
