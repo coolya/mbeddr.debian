@@ -1,10 +1,10 @@
 Package: mbeddr
-Version: 0.5.2724-0
+Version: 0.5.2724-1
 Section: devel
 Priority: extra
 Architecture: all
-Depends: jetbrains-mps (>=3.0.1)
-Recommends: nusmc, cbmc (>= 4.3)
+Depends: jetbrains-mps (>=3.0.1), make, gcc, gdb, graphviz
+Recommends: nusmv, cbmc (>= 4.3)
 Installed-Size: 65672
 Maintainer: Kolja Dummann <kolja.dummann@logv.ws>
 Homepage: www.logv.ws
