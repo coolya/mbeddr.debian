@@ -1,0 +1,9 @@
+Package: nusmv
+Version: 2.5.4-0
+Section: devel
+Priority: extra
+Architecture: amd64
+Installed-Size: 32040
+Maintainer: Kolja Dummann <kolja.dummann@logv.ws>
+Homepage: www.logv.ws
+Description: NuSMV: a new symbolic model checker
