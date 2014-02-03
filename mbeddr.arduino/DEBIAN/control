@@ -1,0 +1,10 @@
+Package: mbeddr-arduino
+Version: 0.1-0
+Section: devel
+Priority: extra
+Architecture: all
+Depends: mbeddr (>=0.6), gcc-avr, avr-libc, avrdude, binutils-avr
+Installed-Size: 936
+Maintainer: Kolja Dummann <kolja.dummann@logv.ws>
+Homepage: www.logv.ws
+Description: mbeddr.arduino is a extensio to mbeddr to support software development for the arduino platform with mbeddr.
