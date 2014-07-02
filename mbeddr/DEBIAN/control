@@ -1,11 +1,11 @@
 Package: mbeddr
-Version: 0.6-0
+Version: 0.7-0
 Section: devel
 Priority: extra
 Architecture: all
-Depends: jetbrains-mps (>=3.0.3), make, gcc, gdb, graphviz
+Depends: jetbrains-mps (>=3.1.0), make, gcc, gdb, graphviz
 Recommends: nusmv, cbmc (>= 4.3)
-Installed-Size: 74132
+Installed-Size: 108832
 Maintainer: Kolja Dummann <kolja.dummann@logv.ws>
 Homepage: www.logv.ws
 Description: mbeddr supports embedded software development based on an extensible version of the C programming language and an IDE.
